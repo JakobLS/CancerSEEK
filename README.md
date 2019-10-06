@@ -1,5 +1,8 @@
 # CancerSEEK
 Cancer detection through the multi-analyte blood test CancerSEEK
+
+The only widely used blood test for earlier cancer detection is based on measurement of prostate-specific antigen, and the proper use of this test is still being debated. The approved tests for cancer detection are not blood-based and include colonoscopy, mammography, and cervical cytology. New blood tests for cancer must have very high specificity; otherwise, too many healthy individuals will receive positive test results, leading to unnecessary follow-up procedures and anxiety.
+
 Earlier detection is key to reducing cancer deaths. CancerSEEK is a new type of blood test being tested out with the aim of improving cancer detection. It can detect eight common cancer types through the assessment of the levels of circulating proteins and mutations in cell-free DNA. The test was applied on 1005 patients with nonmetastatic, clinically detected cancers of ovary, liver, stomach, pancreas, esophagus, colorectum, lung or breast. The median sensitivity was 0.70 for the eight cancer types. The top sensitivities ranged from 0.69 to 0.98 for the detection of five cancer types (ovary, liver, stomach, pancreas, and esophagus). Additionally, 812 healthy control patients were included in the study.
 
 

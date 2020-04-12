@@ -12,13 +12,13 @@ Earlier research has been done on this very same dataset, nevertheless, let's se
 
 ## Results
 
-Considerable improvements have been achieved through the steps applied in the experiment. With only some basic parameter tuning the performance was boosted considerable compared with the results obtained in the study. **Specificity is reaching roughly the same levels at around 99% while sensitivity is boosted to an impressive 81%. That's an 11 percentage point increase compared to the study!** Or 16 percent! The same features that were evaluated in the study were used in this experiment as well, plus *Plasma DNA concentration*,	*Mutant allele freqeuncy*, 	*Mutant fragments/mL plasma* and *Age*. The 12 most common mutations were also extracted from the column *Mutation identified in plasma*.
+Considerable improvements have been achieved through the steps applied in the experiment. With only some basic parameter tuning the performance was boosted considerable compared with the results obtained in the study. **Specificity is reaching roughly the same levels at around 99% while sensitivity is boosted to an impressive 81%. That's an 11 percentage point increase compared to the study!** Or 16 percent! 
 
 
 
 ### Future work
 
-Experimenting with other pre-processing steps, data cleaning, data transformation, feature engineering, feature selection, model parameter tuning as well as with more complex models migth improve the results even more. 
+Experimenting with other pre-processing steps, data cleaning, data transformation, feature engineering, feature selection, model parameter tuning as well as with more complex models migth improve the results even more. Feature selection might be the first step to try out as decreasing the number of features might decrease the price of the test, meaning more patients can be screened. 
 
 
 

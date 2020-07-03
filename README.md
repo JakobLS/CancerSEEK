@@ -12,7 +12,7 @@ Earlier research has been done on this very same dataset, nevertheless, let's se
 
 ## Results
 
-Considerable improvements have been achieved on some key cancer types. **Specificity reached roughly the same levels as in the study at above 99% while sensitivity has been boosted for Breast cancer with 100% (to 69%), Colorectum with 31% (to 85%) and Pancreas 21% (to 85%).**
+Considerable improvements have been achieved on some key cancer types. **Specificity reached roughly the same levels as in the study at above 99% while sensitivity has been boosted for Breast cancer with 100% (to 69%), Colorectum with 31% (to 85%) and Pancreas with 21% (to 85%).**
 
 
 
